@@ -124,3 +124,13 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+
+.contact-img{
+  height: 50%;
+}
+
+.contact-text{
+  color: rgb(97, 64, 128);
+  padding:50px;
+}
